@@ -68,7 +68,7 @@ body {
   margin: 0;
   padding: 0;
 }
-.list .active {
+.list .active, .post-author .active {
   font-weight: bold;
 }
 
