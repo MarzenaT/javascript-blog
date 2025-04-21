@@ -100,4 +100,29 @@ body {
   margin: 0 10px 0 0;
 }
 
+.tag-size-1 {
+  color:rgb(192, 228, 15);
+  
+}
+
+.tag-size-2 {
+  color:rgb(0, 255, 38);
+  font-size: 20px;
+}
+
+.tag-size-3 {
+  color:rgb(70, 12, 228);
+  font-size: 24px;
+}
+
+.tag-size-4 {
+  color: fuchsia;
+  font-size: 28px;
+}
+
+.tag-size-5 {
+  color:red;
+  font-size: 32px;
+}
+
 /*# sourceMappingURL=style.css.map */
